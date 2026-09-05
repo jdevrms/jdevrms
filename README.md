@@ -2,7 +2,7 @@
 
 # JOSHDEVX
 
-### Software Engineer · Front-End Engineer · Builder
+### Full-Stack Software Engineer · Product Builder
 
 <p>
   <a href="https://jdev-portfolio.vercel.app/">
@@ -14,7 +14,7 @@
 </p>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+clean+%26+scalable+interfaces;React+%7C+Next.js+%7C+Vue+%7C+React+Native;Turning+ideas+into+usable+products"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Building+Web+%26+Mobile+Products;Frontend+%7C+Backend+%7C+APIs+%7C+Databases"
 alt="Typing animation"
 />
 
@@ -24,23 +24,25 @@ alt="Typing animation"
 
 ## ABOUT
 
-<table>
+<table width="100%">
 <tr>
+
 <td width="65%" valign="top">
 
 ### Hey, I'm Josh 👋
 
-I'm a **Software Engineer** focused on building modern web and mobile experiences.
+I'm a **Full-Stack Software Engineer** focused on building modern web and mobile products from interface to backend.
 
-I enjoy turning ideas into products that are:
+I enjoy working across the entire development process — from designing clean user experiences and reusable components to building APIs, connecting databases, and shipping production-ready applications.
 
-* ⚡ Fast and responsive
-* 🧩 Component-driven
-* 🎨 Clean and intuitive
-* 🛠️ Easy to maintain
-* 📱 Designed for real-world use
+My strongest area is **front-end engineering**, but I also work with:
 
-My main focus is **front-end engineering**, while also working across APIs, databases, mobile development, and product architecture.
+* ⚡ Web & Mobile Applications
+* 🧩 Component Architecture & Design Systems
+* 🔌 REST APIs & Backend Services
+* 🗄️ Databases & Data Modeling
+* 🚀 Performance & Developer Experience
+* 🎨 UI/UX & Product Design
 
 <br>
 
@@ -53,11 +55,12 @@ Building software & digital products
 <td width="35%" align="center" valign="middle">
 
 <img
-src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,tailwind,nodejs&theme=dark"
+src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,nodejs,postgres&theme=dark"
 width="280"
 />
 
 </td>
+
 </tr>
 </table>
 
@@ -67,71 +70,79 @@ width="280"
 
 <table width="100%">
 <tr>
-<td align="center">
 
-### FRONTEND
+<td width="50%" valign="top" align="center">
+
+### 🎨 FRONTEND
 
 <img
 src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind&theme=dark"
 height="55"
 />
 
-<br>
+<br><br>
 
-**React · Next.js · Vue · TypeScript · JavaScript · Tailwind CSS**
+**React · Next.js · Vue · TypeScript**
+
+**JavaScript · Tailwind CSS**
 
 </td>
-</tr>
 
-<tr>
-<td align="center">
+<td width="50%" valign="top" align="center">
 
-### MOBILE
+### 📱 MOBILE
 
 <img
 src="https://skillicons.dev/icons?i=react,expo,ts&theme=dark"
 height="55"
 />
 
-<br>
+<br><br>
 
 **React Native · Expo · TypeScript**
 
+**Cross-Platform Applications**
+
 </td>
+
 </tr>
 
 <tr>
-<td align="center">
 
-### BACKEND
+<td width="50%" valign="top" align="center">
+
+### ⚙️ BACKEND
 
 <img
 src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,prisma&theme=dark"
 height="55"
 />
 
-<br>
+<br><br>
 
-**Node.js · Express · PostgreSQL · MySQL · Prisma · Supabase**
+**Node.js · Express · PostgreSQL**
+
+**MySQL · Prisma · Supabase**
 
 </td>
-</tr>
 
-<tr>
-<td align="center">
+<td width="50%" valign="top" align="center">
 
-### TOOLS
+### 🛠️ TOOLS
 
 <img
 src="https://skillicons.dev/icons?i=git,github,docker,vite,figma,vercel&theme=dark"
 height="55"
 />
 
-<br>
+<br><br>
 
-**Git · GitHub · Docker · Vite · Figma · Vercel**
+**Git · GitHub · Docker · Vite**
+
+**Figma · Vercel**
 
 </td>
+
 </tr>
 </table>
 
@@ -241,7 +252,7 @@ Reusable front-end components and UI patterns created for modern web application
 
 <div align="center">
 
-### BUILDING THINGS THAT FEEL GOOD TO USE.
+### BUILDING FROM INTERFACE TO INFRASTRUCTURE.
 
 <p>
   <a href="https://jdev-portfolio.vercel.app/">
