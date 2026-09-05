@@ -26,7 +26,7 @@ alt="Typing animation"
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
 ### Hey, I'm Josh 👋
 
@@ -50,21 +50,11 @@ Building software & digital products
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle">
 
 <img
 src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,tailwind,nodejs&theme=dark"
-width="300"
-/>
-
-<br>
-
-<img
-src="https://img.shields.io/badge/WEB-161B22?style=for-the-badge&labelColor=0D1117&color=30363D"
-/> <img
-src="https://img.shields.io/badge/MOBILE-161B22?style=for-the-badge&labelColor=0D1117&color=30363D"
-/> <img
-src="https://img.shields.io/badge/API-161B22?style=for-the-badge&labelColor=0D1117&color=30363D"
+width="280"
 />
 
 </td>
@@ -75,23 +65,35 @@ src="https://img.shields.io/badge/API-161B22?style=for-the-badge&labelColor=0D11
 
 ## STACK
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td align="center">
 
-### Frontend
+### FRONTEND
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind&theme=dark" />
+<img
+src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind&theme=dark"
+height="55"
+/>
 
-**React · Next.js · Vue · TypeScript · JavaScript · Tailwind**
+<br>
+
+**React · Next.js · Vue · TypeScript · JavaScript · Tailwind CSS**
 
 </td>
+</tr>
 
-<td width="50%" valign="top">
+<tr>
+<td align="center">
 
-### Mobile
+### MOBILE
 
-<img src="https://skillicons.dev/icons?i=react,expo,ts&theme=dark" />
+<img
+src="https://skillicons.dev/icons?i=react,expo,ts&theme=dark"
+height="55"
+/>
+
+<br>
 
 **React Native · Expo · TypeScript**
 
@@ -99,21 +101,33 @@ src="https://img.shields.io/badge/API-161B22?style=for-the-badge&labelColor=0D11
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td align="center">
 
-### Backend
+### BACKEND
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,prisma&theme=dark" />
+<img
+src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,prisma&theme=dark"
+height="55"
+/>
+
+<br>
 
 **Node.js · Express · PostgreSQL · MySQL · Prisma · Supabase**
 
 </td>
+</tr>
 
-<td width="50%" valign="top">
+<tr>
+<td align="center">
 
-### Tools
+### TOOLS
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vite,figma,vercel&theme=dark" />
+<img
+src="https://skillicons.dev/icons?i=git,github,docker,vite,figma,vercel&theme=dark"
+height="55"
+/>
+
+<br>
 
 **Git · GitHub · Docker · Vite · Figma · Vercel**
 
@@ -125,7 +139,7 @@ src="https://img.shields.io/badge/API-161B22?style=for-the-badge&labelColor=0D11
 
 ## FEATURED PROJECTS
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
