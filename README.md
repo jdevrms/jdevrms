@@ -4,208 +4,141 @@
 
 ### Software Engineer · Front-End Engineer · Builder
 
-<br />
-
-<a href="https://jdev-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=161B22" />
-</a>
-&nbsp;
-<a href="https://github.com/rjosh4457">
-  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=161B22" />
-</a>
-
-<br /><br />
+<p>
+  <a href="https://jdev-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=58A6FF" />
+  </a>
+  <a href="https://github.com/rjosh4457">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" />
+  </a>
+</p>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3200&pause=1000&color=8B949E&center=true&vCenter=true&width=650&lines=Software+Engineer.;Building+modern+web+%26+mobile+experiences.;React+%7C+Next.js+%7C+Vue+%7C+React+Native;Turning+ideas+into+products."
-alt="Typing introduction"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+clean+%26+scalable+interfaces;React+%7C+Next.js+%7C+Vue+%7C+React+Native;Turning+ideas+into+usable+products"
+alt="Typing animation"
 />
 
 </div>
 
-<br />
-
 ---
-
-<div align="center">
 
 ## ABOUT
 
-</div>
-
 <table>
 <tr>
+<td width="60%" valign="top">
 
-<td width="65%" valign="top">
-
-### 👋 Hey, I'm Josh
+### Hey, I'm Josh 👋
 
 I'm a **Software Engineer** focused on building modern web and mobile experiences.
 
-With **6+ years of experience**, I enjoy turning ideas into polished products — from designing interfaces and building reusable component systems to integrating APIs and shipping applications.
+I enjoy turning ideas into products that are:
 
-I care about creating software that is **clean, fast, intuitive, and maintainable**.
+* ⚡ Fast and responsive
+* 🧩 Component-driven
+* 🎨 Clean and intuitive
+* 🛠️ Easy to maintain
+* 📱 Designed for real-world use
 
-<br />
+My main focus is **front-end engineering**, while also working across APIs, databases, mobile development, and product architecture.
 
-**Focus**
-
-`Frontend Architecture` · `UI/UX` · `Mobile`
-`TypeScript` · `API Integration` · `Product Building`
-
-</td>
-
-<td width="35%" align="center" valign="middle">
-
-<img
-src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript&perline=2"
-alt="Core technologies"
-/>
-
-<br /><br />
+<br>
 
 **6+ YEARS**
 
-Software Engineering
-
-<br /><br />
-
-`WEB` · `MOBILE` · `API`
+Building software & digital products
 
 </td>
 
+<td width="40%" align="center" valign="middle">
+
+<img
+src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,tailwind,nodejs&theme=dark"
+width="300"
+/>
+
+<br>
+
+<img
+src="https://img.shields.io/badge/WEB-161B22?style=for-the-badge&labelColor=0D1117&color=30363D"
+/> <img
+src="https://img.shields.io/badge/MOBILE-161B22?style=for-the-badge&labelColor=0D1117&color=30363D"
+/> <img
+src="https://img.shields.io/badge/API-161B22?style=for-the-badge&labelColor=0D1117&color=30363D"
+/>
+
+</td>
 </tr>
 </table>
 
-<br />
-
 ---
-
-<div align="center">
 
 ## STACK
 
-</div>
-
-<br />
-
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td align="center" width="33%">
+### Frontend
 
-### FRONTEND
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind&theme=dark" />
 
-<br />
-
-<img
-src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,tailwind&perline=3"
-alt="Frontend stack"
-/>
-
-<br /><br />
-
-`React` · `Next.js` · `Vue`
-`TypeScript` · `JavaScript`
-`Tailwind CSS`
+**React · Next.js · Vue · TypeScript · JavaScript · Tailwind**
 
 </td>
 
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-### MOBILE
+### Mobile
 
-<br />
+<img src="https://skillicons.dev/icons?i=react,expo,ts&theme=dark" />
 
-<img
-src="https://skillicons.dev/icons?i=react,expo&perline=3"
-alt="Mobile stack"
-/>
-
-<br /><br />
-
-`React Native`
-`Expo`
-`TypeScript`
+**React Native · Expo · TypeScript**
 
 </td>
-
-<td align="center" width="33%">
-
-### BACKEND
-
-<br />
-
-<img
-src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,supabase,prisma&perline=3"
-alt="Backend stack"
-/>
-
-<br /><br />
-
-`Node.js` · `Express`
-`PostgreSQL` · `MySQL`
-`Supabase` · `Prisma`
-
-</td>
-
 </tr>
 
 <tr>
+<td width="50%" valign="top">
 
-<td align="center" colspan="3">
+### Backend
 
-### TOOLS
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,prisma&theme=dark" />
 
-<br />
-
-<img
-src="https://skillicons.dev/icons?i=git,github,docker,vite,figma,vercel&perline=6"
-alt="Tools"
-/>
+**Node.js · Express · PostgreSQL · MySQL · Prisma · Supabase**
 
 </td>
 
+<td width="50%" valign="top">
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vite,figma,vercel&theme=dark" />
+
+**Git · GitHub · Docker · Vite · Figma · Vercel**
+
+</td>
 </tr>
 </table>
 
-<br />
-
 ---
-
-<div align="center">
 
 ## FEATURED PROJECTS
 
-<br />
-
-<sub>A few things I've built outside of my professional work.</sub>
-
-</div>
-
-<br />
-
 <table>
-
 <tr>
 
 <td width="50%" valign="top">
 
 ### ⚔️ Kingdoms Edge
 
-**Fantasy RPG · Mobile**
+**Fantasy IDLE RPG · Mobile**
 
-A fantasy RPG experiment focused on exploration, combat, progression, inventory and offline-first gameplay.
+A fantasy RPG focused on progression, exploration, inventory, and combat systems.
 
-<br />
+**Stack**
 
-<img src="https://img.shields.io/badge/React_Native-161B22?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Expo-161B22?style=flat-square&logo=expo&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" />
-
-<br /><br />
-
-`GAME DEVELOPMENT`
+`React Native` `Expo` `TypeScript` `Supabase`
 
 </td>
 
@@ -215,17 +148,11 @@ A fantasy RPG experiment focused on exploration, combat, progression, inventory 
 
 **Idle Simulation · Mobile**
 
-A management game about building a freelance career, completing gigs, earning income and growing a business.
+A freelance simulation game where players manage projects, clients, income, and business growth.
 
-<br />
+**Stack**
 
-<img src="https://img.shields.io/badge/React_Native-161B22?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/SQLite-161B22?style=flat-square&logo=sqlite&logoColor=003B57" />
-<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" />
-
-<br /><br />
-
-`GAME SYSTEMS`
+`React Native` `SQLite` `TypeScript`
 
 </td>
 
@@ -239,37 +166,25 @@ A management game about building a freelance career, completing gigs, earning in
 
 **Restaurant · POS**
 
-A modern restaurant platform exploring ordering workflows, management interfaces and POS experiences.
+A modern restaurant point-of-sale system focused on fast workflows and reusable UI components.
 
-<br />
+**Stack**
 
-<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=node.js&logoColor=339933" />
-
-<br /><br />
-
-`FULL STACK`
+`Next.js` `TypeScript` `Node.js`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌐 JDev Portfolio
+### 🧑‍💻 JDev Portfolio
 
 **Personal · Portfolio**
 
-My personal developer portfolio showcasing projects, experiments and things I'm building.
+My personal developer portfolio showcasing projects, experience, skills, and experiments.
 
-<br />
+**Stack**
 
-<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=FFFFFF" />
-
-<br /><br />
-
-`PERSONAL BRAND`
+`React` `JavaScript` `Vercel`
 
 </td>
 
@@ -279,20 +194,15 @@ My personal developer portfolio showcasing projects, experiments and things I'm 
 
 <td width="50%" valign="top">
 
-### 🏠 Life Admin
+### 🗂️ Life Admin
 
 **Productivity · Web**
 
-An application experiment for organizing everyday tasks, information and personal workflows.
+A personal productivity application designed to organize everyday tasks and information.
 
-<br />
+**Stack**
 
-<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" />
-
-<br /><br />
-
-`PRODUCTIVITY`
+`React` `TypeScript`
 
 </td>
 
@@ -302,37 +212,27 @@ An application experiment for organizing everyday tasks, information and persona
 
 **UI · Design System**
 
-Reusable front-end components and UI patterns designed for application development.
+Reusable front-end components and UI patterns created for modern web applications.
 
-<br />
+**Stack**
 
-<img src="https://img.shields.io/badge/Vue-161B22?style=flat-square&logo=vue.js&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" />
-
-<br /><br />
-
-`COMPONENT SYSTEM`
+`Vue` `TypeScript` `UI`
 
 </td>
 
 </tr>
-
 </table>
-
-<br />
 
 ---
 
 <div align="center">
 
-<a href="https://jdev-portfolio.vercel.app">
+### BUILDING THINGS THAT FEEL GOOD TO USE.
 
-<img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-161B22?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
-
-</a>
-
-<br /><br />
-
-<sub>Designed & built by Josh</sub>
+<p>
+  <a href="https://jdev-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-58A6FF?style=for-the-badge&logo=vercel&logoColor=0D1117" />
+  </a>
+</p>
 
 </div>
