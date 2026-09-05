@@ -71,7 +71,7 @@ width="280"
 <table width="100%">
 <tr>
 
-<td width="100%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 ### 🎨 FRONTEND
 
@@ -84,11 +84,13 @@ height="55"
 
 **React · Next.js · Vue · TypeScript**
 
+<br>
+
 **JavaScript · Tailwind CSS**
 
 </td>
 
-<td width="100%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 ### 📱 MOBILE
 
@@ -101,6 +103,8 @@ height="55"
 
 **React Native · Expo · TypeScript**
 
+<br>
+
 **Cross-Platform Applications**
 
 </td>
@@ -109,7 +113,7 @@ height="55"
 
 <tr>
 
-<td width="100%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 ### ⚙️ BACKEND
 
@@ -122,11 +126,13 @@ height="55"
 
 **Node.js · Express · PostgreSQL**
 
+<br>
+
 **MySQL · Prisma · Supabase**
 
 </td>
 
-<td width="100%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 ### 🛠️ TOOLS
 
@@ -138,6 +144,8 @@ height="55"
 <br><br>
 
 **Git · GitHub · Docker · Vite**
+
+<br>
 
 **Figma · Vercel**
 
