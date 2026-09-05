@@ -1,267 +1,105 @@
 <div align="center">
 
-# `rjosh4457`
+  <!-- Header Banner / Animated Typography Style -->
+  <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FFFFFF&center=true&vcenter=true&width=600&lines=Greetings+from+Josh;Web+%26+Mobile+Developer;Turning+Ideas+Into+Fluid+Digital+Experiences" alt="Typing SVG" /></h1>
 
-### Software Engineer · Front-End Engineer · Builder
+  <p><b>6+ Years of Experience</b> | <b>20+ Key Projects Delivered</b> | <b>Based in Makati City</b></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+clean+interfaces.;Turning+ideas+into+products.;React+%7C+Next.js+%7C+Vue+%7C+React+Native;Always+building+something+new." alt="Typing SVG" />
-
-<br />
-
-<a href="https://jdev-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20my%20portfolio-58A6FF?style=for-the-badge&labelColor=0D1117" />
-</a>
-&nbsp;
-<a href="https://github.com/rjosh4457">
-<img src="https://img.shields.io/badge/GITHUB-rjosh4457-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-</a>
-
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username=rjosh4457&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
+  <p>
+    <a href="https://jdev-portfolio.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Portfolio-jdev--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+    </a>
+    <a href="mailto:jramos.dev72@gmail.com">
+      <img src="https://img.shields.io/badge/Email_Me-jramos.dev72%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-## `01` — About
+### 👨‍💻 About Me
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  👋  Hey, I'm Josh.                                         │
-│                                                              │
-│  I'm a Software Engineer focused on building modern,        │
-│  responsive and intuitive digital experiences.              │
-│                                                              │
-│  I work primarily across web and mobile, with a strong      │
-│  focus on front-end architecture, UI/UX and TypeScript.     │
-│                                                              │
-│  Outside of work, I build games, apps, experiments and      │
-│  whatever interesting idea happens to cross my mind.        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+> **The Engineer Behind the Experience**
+> 
+> I build and optimize the code behind every interaction, ensuring the final product is fluid, powerful, and ready for scale. I specialize in front-end architecture, mobile development, custom component systems, and micro-interactions.
 
-**6+ years** of building software across web, mobile, APIs, component systems and side projects.
-
-I enjoy taking an idea from:
-
-**`Concept → Design → Code → Product`**
+* 🚀 **Core Focus:** Web Development, Mobile Engineering, UI/UX Systems, Motion & Micro-interactions.
+* ⚡ **Passion:** Performance optimization, clean component architecture, and polished user journeys.
+* 🛠️ **Current Endeavors:** Building high-performing mobile apps with Expo/React Native & Next.js web solutions.
 
 ---
 
-## `02` — What I Build
+### 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <!-- Front-End -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Back-End & Cloud -->
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Tools & Design -->
+  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%">
-
-### 🖥️ Web Applications
-
-Modern, responsive applications with a strong focus on UX, performance and maintainability.
-
-</td>
-<td width="50%">
-
-### 📱 Mobile Applications
-
-Cross-platform applications using React Native and Expo.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🧩 Component Systems
-
-Reusable components, design systems and front-end architecture.
-
-</td>
-<td>
-
-### 🔌 API Integrations
-
-Connecting interfaces to APIs, authentication, databases and third-party services.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🎮 Side Projects
-
-Games, productivity tools and experimental applications.
-
-</td>
-<td>
-
-### 🤖 AI Experiments
-
-Exploring how AI can improve the way software is designed and built.
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 Kingdoms Edge</h3>
+      <p><i>Fantasy Idle RPG Mobile Game</i></p>
+      <p>A full-featured mobile RPG game built around rich progression systems and interactive battle mechanics.</p>
+      <p><b>Tech Stack:</b> <code>React Native</code>, <code>Expo</code>, <code>Supabase</code>, <code>TypeScript</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 Tempo</h3>
+      <p><i>Social & Dating Mobile Application</i></p>
+      <p>A sleek, interactive social network tailored for high-engagement modern mobile interfaces.</p>
+      <p><b>Tech Stack:</b> <code>React Native</code>, <code>Expo</code>, <code>Supabase</code>, <code>TypeScript</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 Car Rental Platform</h3>
+      <p><i>Full-Stack Booking Web App</i></p>
+      <p>Modern vehicle reservation application featuring seamless UI state and full backend database integration.</p>
+      <p><b>Tech Stack:</b> <code>Next.js</code>, <code>Shadcn UI</code>, <code>TypeScript</code>, <code>MySQL</code>, <code>Node.js</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍽️ Culinex POS</h3>
+      <p><i>Point-Of-Sale Solution</i></p>
+      <p>Tailored management system built to simplify real-time order processing and operational handling.</p>
+      <p><b>Tech Stack:</b> <code>Next.js</code>, <code>Shadcn UI</code>, <code>Node.js</code>, <code>TypeScript</code></p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## `03` — Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,tailwind,html,css" />
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,supabase,prisma" />
-</p>
-
-### Mobile & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,expo,docker,git,github,vite,figma" />
-</p>
-
----
-
-## `04` — Featured Projects
-
-<div align="center">
-
-### 🎮 Kingdoms Edge
-
-**A fantasy RPG experiment for mobile**
-
-An offline-first RPG focused on progression, combat, inventory and exploration.
-
-`React Native` `Expo` `TypeScript`
-
-<br />
-
-### 💼 Freelance Empire
-
-**An idle freelance simulation game**
-
-A management game experiment built around gigs, income, progression and offline simulation.
-
-`React Native` `TypeScript` `SQLite`
-
-<br />
-
-### 🍽️ Culinex
-
-**Restaurant & POS application**
-
-A modern application exploring restaurant workflows, ordering and POS experiences.
-
-`React` `TypeScript` `Node.js`
-
-<br />
-
-### 🌐 JDev Portfolio
-
-**My personal developer portfolio**
-
-A place where I showcase what I build, experiment with new ideas and document my work.
-
-`React` `TypeScript` `Vercel`
-
-</div>
-
----
-
-## `05` — Currently Building
+### 💼 Experience At A Glance
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  ⚔️  Kingdoms Edge                                   │
-│      Fantasy RPG / Mobile                            │
-│                                                      │
-│  🧪  Experimental Apps                               │
-│      Turning random ideas into working products      │
-│                                                      │
-│  🎮  Game Development                                │
-│      2D / mobile / systems-focused games             │
-│                                                      │
-│  🤖  AI + Development                                │
-│      Exploring AI-assisted software development      │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
----
-
-## `06` — GitHub Activity
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rjosh4457&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjosh4457&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=rjosh4457&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
-
-</div>
-
----
-
-## `07` — My Development Philosophy
-
-> **Good software should feel simple.**
-
-I care about:
-
-```text
-01  ✦  Clean architecture
-02  ✦  Thoughtful UI/UX
-03  ✦  Maintainable code
-04  ✦  Performance
-05  ✦  Developer experience
-06  ✦  Shipping things people can actually use
-```
-
----
-
-## `08` — Beyond the Code
-
-When I'm not working, you'll probably find me:
-
-🎮 Building a game
-💡 Thinking about a new app idea
-🎨 Experimenting with UI
-📱 Building something for mobile
-🤖 Playing around with AI
-🧠 Learning something I probably don't need to know yet
-
----
-
-<div align="center">
-
-## Let's build something.
-
-<br />
-
-<a href="https://jdev-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20VIEW%20PORTFOLIO-58A6FF?style=for-the-badge&labelColor=0D1117" />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/rjosh4457">
-<img src="https://img.shields.io/badge/GitHub-rjosh4457-FFFFFF?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" />
-</a>
-
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=footer" />
-
-</div>
+ 2025 - Present   ►   Front-End Web Developer @ VAVASOFTWARE
+ 2022 - 2025      ►   Front-End Developer @ Yondu Inc.
+ 2019 - 2022      ►   Full-Stack Developer @ Ecostarlimited Inc.
+ 2019 - 2019      ►   Application Developer @ Partner Business Solution
