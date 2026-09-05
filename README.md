@@ -4,25 +4,21 @@
 
 ### Software Engineer · Front-End Engineer · Builder
 
-<p>
-  <a href="https://jdev-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20My%20Portfolio-58A6FF?style=for-the-badge&labelColor=0D1117" />
-  </a>
-  <a href="https://github.com/rjosh4457">
-    <img src="https://img.shields.io/badge/GITHUB-rjosh4457-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-  </a>
-</p>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+clean+digital+experiences.;React+%7C+Next.js+%7C+Vue+%7C+React+Native;Turning+ideas+into+products.;Always+building+something."
-alt="Typing introduction"
-/>
-
 <br />
 
+<a href="https://jdev-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=161B22" />
+</a>
+&nbsp;
+<a href="https://github.com/rjosh4457">
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=161B22" />
+</a>
+
+<br /><br />
+
 <img
-src="https://komarev.com/ghpvc/?username=rjosh4457&style=flat-square&color=58A6FF&label=PROFILE+VIEWS"
-alt="Profile views"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3200&pause=1000&color=8B949E&center=true&vCenter=true&width=650&lines=Software+Engineer.;Building+modern+web+%26+mobile+experiences.;React+%7C+Next.js+%7C+Vue+%7C+React+Native;Turning+ideas+into+products."
+alt="Typing introduction"
 />
 
 </div>
@@ -33,152 +29,48 @@ alt="Profile views"
 
 <div align="center">
 
-## `01` — ABOUT
+## ABOUT
 
 </div>
 
-<br />
-
 <table>
 <tr>
+
 <td width="65%" valign="top">
 
 ### 👋 Hey, I'm Josh
 
 I'm a **Software Engineer** focused on building modern web and mobile experiences.
 
-With **6+ years of experience**, I enjoy taking products from idea to implementation — from designing interfaces and building reusable components to integrating APIs and shipping applications.
+With **6+ years of experience**, I enjoy turning ideas into polished products — from designing interfaces and building reusable component systems to integrating APIs and shipping applications.
 
 I care about creating software that is **clean, fast, intuitive, and maintainable**.
 
 <br />
 
-**Currently interested in**
+**Focus**
 
 `Frontend Architecture` · `UI/UX` · `Mobile`
-`AI` · `Game Development` · `Product Building`
+`TypeScript` · `API Integration` · `Product Building`
 
 </td>
 
 <td width="35%" align="center" valign="middle">
 
 <img
-src="https://skillicons.dev/icons?i=react,typescript,nextjs,vue&perline=2"
-alt="Tech stack"
+src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript&perline=2"
+alt="Core technologies"
 />
 
 <br /><br />
 
-### 6+ YEARS
+**6+ YEARS**
 
 Software Engineering
 
 <br /><br />
 
-### WEB · MOBILE · API
-
-</td>
-</tr>
-</table>
-
-<br />
-
----
-
-<div align="center">
-
-## `02` — WHAT I BUILD
-
-</div>
-
-<br />
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🖥️ Web Applications
-
-Modern, responsive applications with a focus on performance, usability and maintainable architecture.
-
-<br />
-
-`React` · `Next.js` · `Vue`
-`TypeScript` · `Tailwind`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📱 Mobile Applications
-
-Cross-platform applications designed around real-world mobile experiences.
-
-<br />
-
-`React Native` · `Expo`
-`TypeScript`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧩 Component Systems
-
-Reusable components and scalable UI systems that make development faster and more consistent.
-
-<br />
-
-`Design Systems` · `UI Architecture`
-`Reusable Components`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎮 Games & Experiments
-
-Small games, simulations and experimental products built outside of my day-to-day work.
-
-<br />
-
-`Game Systems` · `Gameplay`
-`Offline-first` · `Mobile`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔌 API & Backend
-
-Connecting front-end applications with APIs, authentication, databases and external services.
-
-<br />
-
-`Node.js` · `Express`
-`PostgreSQL` · `MySQL` · `Supabase`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AI & Automation
-
-Exploring how AI can improve development workflows and become part of useful products.
-
-<br />
-
-`AI APIs` · `Automation`
-`Developer Tools`
+`WEB` · `MOBILE` · `API`
 
 </td>
 
@@ -191,7 +83,7 @@ Exploring how AI can improve development workflows and become part of useful pro
 
 <div align="center">
 
-## `03` — TECH STACK
+## STACK
 
 </div>
 
@@ -206,7 +98,10 @@ Exploring how AI can improve development workflows and become part of useful pro
 
 <br />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,tailwind&perline=3" />
+<img
+src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,tailwind&perline=3"
+alt="Frontend stack"
+/>
 
 <br /><br />
 
@@ -222,13 +117,16 @@ Exploring how AI can improve development workflows and become part of useful pro
 
 <br />
 
-<img src="https://skillicons.dev/icons?i=react,expo&perline=3" />
+<img
+src="https://skillicons.dev/icons?i=react,expo&perline=3"
+alt="Mobile stack"
+/>
 
 <br /><br />
 
 `React Native`
 `Expo`
-`Mobile Development`
+`TypeScript`
 
 </td>
 
@@ -238,7 +136,10 @@ Exploring how AI can improve development workflows and become part of useful pro
 
 <br />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,supabase,prisma&perline=3" />
+<img
+src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,supabase,prisma&perline=3"
+alt="Backend stack"
+/>
 
 <br /><br />
 
@@ -258,7 +159,10 @@ Exploring how AI can improve development workflows and become part of useful pro
 
 <br />
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vite,figma,vercel&perline=6" />
+<img
+src="https://skillicons.dev/icons?i=git,github,docker,vite,figma,vercel&perline=6"
+alt="Tools"
+/>
 
 </td>
 
@@ -271,7 +175,11 @@ Exploring how AI can improve development workflows and become part of useful pro
 
 <div align="center">
 
-## `04` — FEATURED PROJECTS
+## FEATURED PROJECTS
+
+<br />
+
+<sub>A few things I've built outside of my professional work.</sub>
 
 </div>
 
@@ -291,11 +199,13 @@ A fantasy RPG experiment focused on exploration, combat, progression, inventory 
 
 <br />
 
-`React Native` `Expo` `TypeScript`
+<img src="https://img.shields.io/badge/React_Native-161B22?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-161B22?style=flat-square&logo=expo&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" />
 
 <br /><br />
 
-**GAME DEVELOPMENT**
+`GAME DEVELOPMENT`
 
 </td>
 
@@ -309,11 +219,13 @@ A management game about building a freelance career, completing gigs, earning in
 
 <br />
 
-`React Native` `SQLite` `TypeScript`
+<img src="https://img.shields.io/badge/React_Native-161B22?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/SQLite-161B22?style=flat-square&logo=sqlite&logoColor=003B57" />
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" />
 
 <br /><br />
 
-**GAME SYSTEMS**
+`GAME SYSTEMS`
 
 </td>
 
@@ -331,11 +243,13 @@ A modern restaurant platform exploring ordering workflows, management interfaces
 
 <br />
 
-`React` `TypeScript` `Node.js`
+<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=node.js&logoColor=339933" />
 
 <br /><br />
 
-**FULL STACK**
+`FULL STACK`
 
 </td>
 
@@ -345,15 +259,17 @@ A modern restaurant platform exploring ordering workflows, management interfaces
 
 **Personal · Portfolio**
 
-My personal developer portfolio for showcasing projects, experiments and things I'm building.
+My personal developer portfolio showcasing projects, experiments and things I'm building.
 
 <br />
 
-`React` `TypeScript` `Vercel`
+<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=FFFFFF" />
 
 <br /><br />
 
-**PERSONAL BRAND**
+`PERSONAL BRAND`
 
 </td>
 
@@ -371,11 +287,12 @@ An application experiment for organizing everyday tasks, information and persona
 
 <br />
 
-`React` `TypeScript`
+<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" />
 
 <br /><br />
 
-**PRODUCTIVITY**
+`PRODUCTIVITY`
 
 </td>
 
@@ -389,11 +306,12 @@ Reusable front-end components and UI patterns designed for application developme
 
 <br />
 
-`Vue` `TypeScript` `UI`
+<img src="https://img.shields.io/badge/Vue-161B22?style=flat-square&logo=vue.js&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" />
 
 <br /><br />
 
-**COMPONENT SYSTEM**
+`COMPONENT SYSTEM`
 
 </td>
 
@@ -406,271 +324,15 @@ Reusable front-end components and UI patterns designed for application developme
 ---
 
 <div align="center">
-
-## `05` — DEVELOPMENT PHILOSOPHY
-
-</div>
-
-<br />
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### ⚡
-
-**FAST**
-
-Performance
-matters.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-**SIMPLE**
-
-Complex problems
-need simple UX.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧩
-
-**CLEAN**
-
-Code should be
-easy to maintain.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🎯
-
-**USEFUL**
-
-Build things
-people use.
-
-</td>
-
-</tr>
-</table>
-
-<br />
-
-<div align="center">
-
-> **Good software should feel simple.**
-
-</div>
-
-<br />
-
----
-
-<div align="center">
-
-## `06` — CURRENTLY BUILDING
-
-</div>
-
-<br />
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚔️ Game Development
-
-Experimenting with lightweight mobile games, progression systems, combat mechanics and offline gameplay.
-
-**Status:** `BUILDING`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📱 Mobile Projects
-
-Exploring new mobile application ideas with React Native and Expo.
-
-**Status:** `EXPLORING`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 AI Experiments
-
-Finding practical ways to integrate AI into applications and development workflows.
-
-**Status:** `EXPERIMENTING`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧪 Side Projects
-
-Turning random ideas into working products just to see where they go.
-
-**Status:** `ALWAYS`
-
-</td>
-
-</tr>
-</table>
-
-<br />
-
----
-
-<div align="center">
-
-## `07` — GITHUB
-
-<br />
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=rjosh4457&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
-height="170"
-alt="GitHub statistics"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjosh4457&layout=compact&hide_border=true&langs_count=7&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
-height="170"
-alt="Top languages"
-/>
-
-<br /><br />
-
-<img
-src="https://streak-stats.demolab.com?user=rjosh4457&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"
-alt="GitHub streak"
-/>
-
-</div>
-
-<br />
-
----
-
-<div align="center">
-
-## `08` — BEYOND CODE
-
-</div>
-
-<br />
-
-<table>
-<tr>
-
-<td align="center" width="20%">
-
-🎮
-
-<br />
-
-**Games**
-
-</td>
-
-<td align="center" width="20%">
-
-💡
-
-<br />
-
-**Ideas**
-
-</td>
-
-<td align="center" width="20%">
-
-🎨
-
-<br />
-
-**UI / UX**
-
-</td>
-
-<td align="center" width="20%">
-
-📱
-
-<br />
-
-**Mobile**
-
-</td>
-
-<td align="center" width="20%">
-
-🤖
-
-<br />
-
-**AI**
-
-</td>
-
-</tr>
-</table>
-
-<br />
-
-<div align="center">
-
-I like building things that **didn't exist yesterday**.
-
-Sometimes they're useful.
-
-Sometimes they're games.
-
-Sometimes they're just a terrible idea that somehow turned into a project.
-
-</div>
-
-<br />
-
----
-
-<div align="center">
-
-## Let's build something.
-
-<br />
 
 <a href="https://jdev-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-58A6FF?style=for-the-badge&labelColor=0D1117&logo=vercel&logoColor=white" />
+
+<img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-161B22?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+
 </a>
 
 <br /><br />
 
-<a href="https://github.com/rjosh4457">
-<img src="https://img.shields.io/badge/GitHub-rjosh4457-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-</a>
-
-<br /><br />
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=140&section=footer"
-width="100%"
-/>
+<sub>Designed & built by Josh</sub>
 
 </div>
