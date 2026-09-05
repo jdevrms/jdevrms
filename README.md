@@ -71,7 +71,7 @@ width="280"
 <table width="100%">
 <tr>
 
-<td width="50%" valign="top" align="center">
+<td width="100%" valign="top" align="center">
 
 ### 🎨 FRONTEND
 
@@ -88,7 +88,7 @@ height="55"
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="100%" valign="top" align="center">
 
 ### 📱 MOBILE
 
@@ -109,7 +109,7 @@ height="55"
 
 <tr>
 
-<td width="50%" valign="top" align="center">
+<td width="100%" valign="top" align="center">
 
 ### ⚙️ BACKEND
 
@@ -126,7 +126,7 @@ height="55"
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="100%" valign="top" align="center">
 
 ### 🛠️ TOOLS
 
